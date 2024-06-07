@@ -5,3 +5,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=umezaki1212&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=php,js,python)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,vue,nuxt,tailwind)
+
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=aws,flask,docker)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,sqlite)
+
+#### Other Tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,phpstorm)
