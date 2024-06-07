@@ -16,7 +16,7 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,vue,nuxt,tailwind)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=aws,flask,docker)
+![Backend Technologies](https://skillicons.dev/icons?i=aws,laravel,flask,docker)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,sqlite)
